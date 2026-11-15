@@ -1,0 +1,18 @@
+INTRODUCTION TO PROGRAMMING 
+Types of languages- (procedural,functional,object oriented)
+
+Static vs Dynamic languages 
+static:-
+- performs type checking at compile time 
+- errors will show at compile time 
+- declare the datatypes before you use it 
+- more control
+dynamic:-
+- performs type checking at the runtime 
+- error might not show till prorgam is run
+- no need to declare datatype of variables 
+- saves time in writing code but might give error at runtime
+ 
+Memory management 
+when a=10 is written, a is the reference variable which points to the value assigned which is 10. a which is reference variable is located in the stack memory and 10 which is the assigned value is stored in the heap memory.
+suppose kunal,son,brother,baby are all referred to the same object which is the "human"---> (imagine stickfigure). If "son" gets a haircut then it is recognised by kunal,brother and baby too which means if multiple reference variables points at the same value then if any changes are made to the value by a single variable then the changes will be made to all the variables simultaneously.
