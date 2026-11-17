@@ -9,3 +9,8 @@
 - Implemented: hands on working on example for every topic.
 - Problems solved: none
 - Key takeaway: Creation and structure of java file. Creating main function. Writing and explanation of full first program "hello world". Converting .java to .class and explanation of every words of the program. Why do we write strings [] args in psvm. Environment variable path. Start intellij IDEA and its shortcuts, package and its output line explanation. Input and outputs. Primitive data types. Commenting out in java. Identifiers and literals. String input, float input and sum of two numbers. Type conversion and typecasting. Automatic type promotion. Java follows unicode. Rules for type promotion. Basics of if,while and for loops. Conversion of temp from celcius to farenheit.   
+## NOVEMBER 17, 2026
+- Learned: Conditional statements like if and else and their syntax. For loop is used when we know how mant times we want the loop to run and while is used when we don't. Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program. 
+- Implemented: Hands on working on example for every topic.
+- Problems solved: 8.
+- Key takeaway: Conditions. Syntax of if-else statements. Loops. Syntax of for and while loop. When to use for and while loop. Syntax of do while loop. 6 programs solved parallelly(Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program).   
