@@ -1,4 +1,4 @@
-package Java_fundamentals.conditons_loops_andcalcprogram;
+package Java_fundamentals.conditons_loops_and_calcprogram;
 
 import java.util.Scanner;
 

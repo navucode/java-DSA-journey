@@ -1,4 +1,4 @@
-package Java_fundamentals.conditons_loops_andcalcprogram;
+package Java_fundamentals.conditons_loops_and_calcprogram;
 
 public class Conditionals {
     public static void main(String[] args) {
