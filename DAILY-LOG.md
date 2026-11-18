@@ -13,4 +13,15 @@
 - Learned: Conditional statements like if and else and their syntax. For loop is used when we know how mant times we want the loop to run and while is used when we don't. Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program. 
 - Implemented: Hands on working on example for every topic.
 - Problems solved: 8.
-- Key takeaway: Conditions. Syntax of if-else statements. Loops. Syntax of for and while loop. When to use for and while loop. Syntax of do while loop. 6 programs solved parallelly(Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program).   
+- Key takeaway: Conditions. Syntax of if-else statements. Loops. Syntax of for and while loop. When to use for and while loop. Syntax of do while loop. 6 programs solved parallelly(Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program).  
+## NOVEMBER 18, 2026
+
+- Learned: Switch statements in Java and when they are useful instead of long if-else chains. Traditional switch syntax using case, break, and default; how omitting break causes fall-through into later cases. Switching on String values and comparing strings with .equals() rather than ==. Newer arrow-style switch syntax (case value ->) that avoids fall-through and does not require break. Grouping multiple cases together, such as weekdays and weekends. Nested switch statements using an employee ID first and then a department selection.
+
+- Implemented: Worked through switch-case examples for fruits, days of the week, and employee/department selection. Used default to handle invalid inputs, break to stop execution after a matching traditional case, grouped cases for the same output, and practised a nested switch structure.
+
+- Problems solved: Understood why == should not be used to compare String contents and how .equals() solves this. Understood unwanted fall-through in traditional switch cases and how break or arrow syntax prevents it.
+
+- Key takeaway: A switch statement selects code based on one expression and is a cleaner choice when there are many fixed options. Traditional syntax needs break to prevent later cases from running; newer arrow syntax is shorter and safer. Nested switches can organise decisions with two levels, such as finding an employee by ID and then handling their department.
+
+
