@@ -23,7 +23,7 @@
 - Problems solved: Understood why == should not be used to compare String contents and how .equals() solves this. Understood unwanted fall-through in traditional switch cases and how break or arrow syntax prevents it.
 
 - Key takeaway: A switch statement selects code based on one expression and is a cleaner choice when there are many fixed options. Traditional syntax needs break to prevent later cases from running; newer arrow syntax is shorter and safer. Nested switches can organise decisions with two levels, such as finding an employee by ID and then handling their department.
-## NOVEMBER 18, 2026
+## NOVEMBER 19, 2026
 **could not do because of just next day CAED Exam
-
-
+## NOVEMBER 20, 2026
+**could not do because of next day chemistery event assignment 
