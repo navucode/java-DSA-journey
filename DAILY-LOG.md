@@ -26,4 +26,6 @@
 ## NOVEMBER 19, 2026
 **could not do because of just next day CAED Exam
 ## NOVEMBER 20, 2026
-**could not do because of next day chemistery event assignment 
+**could not do because of next day chemistery event assignment
+## NOVEMBER 20, 2026 
+**could not do because of next day cybersecurity presentation preparation
