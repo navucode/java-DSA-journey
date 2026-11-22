@@ -9,3 +9,5 @@ First Java Program - Input/Output, Debugging and Datatypes (✅)
 Conditionals and Loops + Calculator Program (✅)
 
 Switch Statements + Nested Case in Java (✅)
+
+Functions / Methods in Java (✅)
