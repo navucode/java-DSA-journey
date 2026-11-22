@@ -1,4 +1,4 @@
-package Java_fundamentals;
+package Java_fundamentals.first_java_programs;
 
 public class primitives {
     public static void main(String[] args) {
