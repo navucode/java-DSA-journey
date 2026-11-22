@@ -15,7 +15,6 @@
 - Problems solved: 8.
 - Key takeaway: Conditions. Syntax of if-else statements. Loops. Syntax of for and while loop. When to use for and while loop. Syntax of do while loop. 6 programs solved parallelly(Largest number. Alphabet case check. Fibonacci. Counting reoccurences. Reverse. Calculator program).  
 ## NOVEMBER 18, 2026
-
 - Learned: Switch statements in Java and when they are useful instead of long if-else chains. Traditional switch syntax using case, break, and default; how omitting break causes fall-through into later cases. Switching on String values and comparing strings with .equals() rather than ==. Newer arrow-style switch syntax (case value ->) that avoids fall-through and does not require break. Grouping multiple cases together, such as weekdays and weekends. Nested switch statements using an employee ID first and then a department selection.
 
 - Implemented: Worked through switch-case examples for fruits, days of the week, and employee/department selection. Used default to handle invalid inputs, break to stop execution after a matching traditional case, grouped cases for the same output, and practised a nested switch structure.
@@ -27,5 +26,13 @@
 **could not do because of just next day CAED Exam
 ## NOVEMBER 20, 2026
 **could not do because of next day chemistery event assignment
-## NOVEMBER 20, 2026 
+## NOVEMBER 21, 2026 
 **could not do because of next day cybersecurity presentation preparation
+## NOVEMBER 22, 2026 
+- Learned: Functions/methods in Java—why they help avoid repeating code, method definition and calling, return types, return statements, parameters and arguments. Passing primitive values and object references to methods, including why changing a reference inside a method does not necessarily change the original reference. Scope of variables in methods and blocks, shadowing, variable-length arguments (varargs), and function overloading. Also practised writing methods for sums, greeting messages, string input, and checking whether a number is prime.
+
+- Implemented: Worked through method examples that take input, return values, and print results. Created methods with and without parameters, used methods returning int, String, and boolean, passed arrays/objects into methods, used varargs for an unknown number of arguments, and overloaded methods with different parameter lists.
+
+- Problems solved: Understood why a variable declared inside a method or block cannot be accessed outside it. Clarified Java’s pass-by-value behaviour, including the difference between changing an object through its reference and reassigning the reference. Understood how Java chooses between overloaded methods based on their arguments.
+
+- Key takeaway: Functions make code reusable, organised, and easier to debug. A method can accept parameters, perform a task, and optionally return a value. Scope controls where variables can be used; shadowing lets an inner variable hide an outer one. Varargs support flexible numbers of arguments, while overloading allows methods with the same name when their parameter lists differ.
