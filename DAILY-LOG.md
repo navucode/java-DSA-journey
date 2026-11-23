@@ -36,3 +36,5 @@
 - Problems solved: Understood why a variable declared inside a method or block cannot be accessed outside it. Clarified Java’s pass-by-value behaviour, including the difference between changing an object through its reference and reassigning the reference. Understood how Java chooses between overloaded methods based on their arguments.
 
 - Key takeaway: Functions make code reusable, organised, and easier to debug. A method can accept parameters, perform a task, and optionally return a value. Scope controls where variables can be used; shadowing lets an inner variable hide an outer one. Varargs support flexible numbers of arguments, while overloading allows methods with the same name when their parameter lists differ.
+## NOVEMBER 23, 2026
+** completing back log 
