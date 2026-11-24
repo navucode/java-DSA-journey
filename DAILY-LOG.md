@@ -38,3 +38,6 @@
 - Key takeaway: Functions make code reusable, organised, and easier to debug. A method can accept parameters, perform a task, and optionally return a value. Scope controls where variables can be used; shadowing lets an inner variable hide an outer one. Varargs support flexible numbers of arguments, while overloading allows methods with the same name when their parameter lists differ.
 ## NOVEMBER 23, 2026
 ** completing back log 
+## NOVEMBER 24, 2026
+** completing back log 
+## NOVEMBER 25, 2026
