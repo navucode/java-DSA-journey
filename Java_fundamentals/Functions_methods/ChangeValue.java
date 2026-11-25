@@ -1,5 +1,7 @@
 package Java_fundamentals.Functions_methods;
 
+import java.util.Arrays;
+
 public class ChangeValue{
     public static void main(String[] args) {
         // create an array
