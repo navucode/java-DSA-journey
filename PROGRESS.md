@@ -11,3 +11,5 @@ Conditionals and Loops + Calculator Program (✅)
 Switch Statements + Nested Case in Java (✅)
 
 Functions / Methods in Java (✅)
+
+Arrays in Java (✅)
