@@ -42,3 +42,10 @@
 ** completing back log 
 ## NOVEMBER 25, 2026
 ** completing back log
+## NOVEMBER 26, 2026
+** completing back log 
+## NOVEMBER 27, 2026 
+- Learned: What is array. How it is stored in memory(location). How to create an Array. How to take input output and update in array. How to pass array in argument(function arguments). How to search (linear search). How to search (binary search). How to find the largest and the smallest in the given array. How to reverse the given array. How to output pairs of a given array.
+- implemented: Did class examples and solved the in class questions given 
+- Problems solved: 5
+- Key takeaway: Array definiton. Array memory. Array creation. Array input output and update. Array as function argument. Linear search. Binary search. Reversing an array. Pairs in Array.
